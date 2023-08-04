@@ -1,1 +1,3 @@
-function mudacor ( e )
+function mudacor(){
+    document.body.style.backgroundColor = "pink";
+}
